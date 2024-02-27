@@ -1,2 +1,14 @@
-# html5
-Discover the journey from HTML basics to advanced levels within this repository. Covering everything from fundamental concepts to intricate techniques, our comprehensive resources cater to learners of all levels.
+
+# News Web Page
+
+New Website using HTML, CSS and Javascript
+For API Visit : https://newsapi.org/
+
+## Authors
+
+- [@Vibhakar Kumar](https://github.com/iamvibhakar)
+
+
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/iamvibhakar/JS_NEWS_WebPage/main/output.gif)
